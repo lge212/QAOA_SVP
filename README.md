@@ -9,4 +9,4 @@ Both files are written to run immediately upon download for example lattices.
 These lattice basis vectors can be manually altered within the Gram() function, however this may require additional adjustment of the lat_dim and qudit_dim parameters.
 
 The run time is dependent upon the classical optimiser cmaes_to_adam_minimization(). 
-This is readily tunable via the parameters in the argument to lessen the extent of optimisation.
+This is readily tunable via the parameters in the argument to lessen the intensity of the optimisation.
