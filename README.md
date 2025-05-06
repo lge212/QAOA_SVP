@@ -5,4 +5,4 @@ The file Modified_QAOA_12q.py is an extension of the general framework to includ
 This file is written specifically for 12 qubit systems.
 
 Both files are written to run immediately upon download for example lattices. 
-These lattice basis vectors can be manually altered within the 'Gram' function.
+These lattice basis vectors can be manually altered within the 'Gram' function, however this may require additional adjustment of the lat_dim and qudit_dim parameters.
